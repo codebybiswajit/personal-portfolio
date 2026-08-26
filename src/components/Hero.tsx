@@ -7,13 +7,13 @@ interface HeroProps {
 }
 
 const typingStrings = [
-  'Full Stack Developer .',
-  'Asp.Net Core Developer .',
-  'MERN Stack Developer .',
-  'React Developer .',
-  'TypeScript Developer .',
-  'Node.js Expert .',
-  'Python Developer .',
+  'Full Stack Developer.',
+  'Asp.Net Core Developer.',
+  'MERN Stack Developer.',
+  'React Developer.',
+  'TypeScript Developer.',
+  'Node.js Expert.',
+  'Python Developer.',
 ];
 
 const fadeUp = (delay: number) => ({
